@@ -1,6 +1,6 @@
 本shell的主要作用是基于Ubuntu 18.04安装量化环境的一键安装脚本
 
-    wget -N --no-check-certificate https://raw.githubusercontent.com/evon16888/ubuntu_quant/master/bin.sh && bash bin.sh
+    wget -N --no-check-certificate https://github.com/calypsoso/ubuntu_quant/blob/main/bin.sh && bash bin.sh
 
 安装的时候ccxt有些机器上有报错，我用的轻应用服务器完全OK，但ECS会出现一些错误信息，所以如果出现错误信息，我们就补刀吧。
 
